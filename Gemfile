@@ -45,7 +45,7 @@ group :development, :test do
   # Omakase Ruby styling [https://github.com/rails/rubocop-rails-omakase/]
   gem "rubocop-rails-omakase", require: false
   gem "rswag"
-  gem 'solargraph-rails', '~> 0.3.1'
+  gem 'solargraph-rails', '~> 1.1.0'
   gem "rswag-api"
   gem "rswag-ui"
   gem "rspec-rails"
